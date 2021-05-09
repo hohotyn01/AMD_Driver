@@ -35,7 +35,7 @@ Further documentation can be found on the HiveOS forum
  
 For a guided installation enter the following 3 commands
 ```
-wget https://github.com/hohotyn01/AMD_Driver/blob/main/amd_install.sh
+wget https://raw.githubusercontent.com/hohotyn01/AMD_Driver/master/amd_install.sh
 
 chmod +x ./amd_install.sh
 
