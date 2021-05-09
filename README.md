@@ -1,4 +1,4 @@
-# AMD_Driver
+# AMD Driver
 # Automatic installation of AMD Drivers on HiveOS/Ubuntu
 ---
 ## By: CryptoLuigi
