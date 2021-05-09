@@ -2,8 +2,7 @@
 # Automatic installation of AMD Drivers on HiveOS/Ubuntu
 ---
 ## By: CryptoLuigi
-## Code contributors: Cryptonuffe miabo
-#### Click link below to learn more about HiveOS
+## Copy Hohotyn01
 
 When running this script, the script which AMD Driver you want to install.
 
@@ -42,8 +41,6 @@ chmod +x ./amd_install.sh
 
 ./amd_install.sh
  ```
- For support go to: https://forum.hiveos.farm/t/auto-installation-of-amd-drivers-on-hiveos-ubuntu
- 
  
  https://www.youtube.com/watch?v=58pia_gBZ4s
  
